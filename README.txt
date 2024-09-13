@@ -47,8 +47,8 @@ tokenm.json格式説明：
 "open_api_url":"https://api.xhofe.top/alist/ali_open/token", //这是alist的openapi接口地址，也可使用其他openapi提供商的地址。
 "danmu":true,//是否全局开啓阿里云盘所有csp的弹幕支持，聚合类CSP仍需单独设置，例如Wogg, Wobg
 "quark_danmu":true,//是否全局开啓夸克网盘的所有csp的弹幕支持, 聚合类CSP仍需单独设置，例如Wogg, Wobg
-"quark_cookie":"这里填写通过https://pan.quark.cn网站获取到的cookie，会很长，全数填入即可。"
-"uc_cookie":"这里填写通过https://drive.uc.cn网站登录获取的cookie",
+"quark_cookie":"这里填写通过 https://pan.quark.cn 网站获取到的cookie，会很长，全数填入即可。"
+"uc_cookie":"这里填写通过 https://drive.uc.cn 网站登录获取的cookie",
 "thunder_username":"这里填入用户名或手机号，如果是手机号，记得是类似'+86 139123457'这样的格式，+86后有空格才对",
 "thunder_password":"密码",
 "thunder_captchatoken":"首次使用迅雷网盘时，需要使用app弹出的登陆地址去接码登录，并获取captchaToken，具体方法参考alist网站的文档:https://alist.nn.ci/zh/guide/drivers/thunder.html",
